@@ -1,4 +1,4 @@
-@import url("https://cdn.jsdelivr.net/npm/bootstrap@4.6.0/dist/css/bootstrap.min.css"); /* Using a url */
+@import url("./bootstrap.css"); /* Using a url */
 
 .background{
     background-image:url(../images/head.jpg);
